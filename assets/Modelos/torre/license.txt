@@ -1,0 +1,11 @@
+Model Information:
+* title:	Evelynn [League Of Legends]
+* source:	https://sketchfab.com/3d-models/evelynn-league-of-legends-ee718e8455204e4aa508ed48d5e1aeb8
+* author:	CataRackta (https://sketchfab.com/CataRackta)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Evelynn [League Of Legends]" (https://sketchfab.com/3d-models/evelynn-league-of-legends-ee718e8455204e4aa508ed48d5e1aeb8) by CataRackta (https://sketchfab.com/CataRackta) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
